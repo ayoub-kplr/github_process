@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="451a372c-55e0-469e-9f00-14ea55e4a666" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/local_colab_share.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local_job.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replace_in_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colab_share.py" beforeDir="false" afterPath="$PROJECT_DIR$/colab_share.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repos/Statistics-With-Python/Exercices/1_1_Echantillonnage_Exercices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/repos/Statistics-With-Python/Exercices/1_1_Echantillonnage_Exercices.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M6jSpxhF2mbSLVDTO8UbwFEokA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/KPLR/kplr-training.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="451a372c-55e0-469e-9f00-14ea55e4a666" name="Changes" comment="" />
+      <created>1677094928798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677094928798</updated>
+      <workItem from="1677094929923" duration="9220000" />
+      <workItem from="1677139778479" duration="23776000" />
+      <workItem from="1677247809974" duration="2349000" />
+      <workItem from="1677345688882" duration="34000" />
+      <workItem from="1677510531099" duration="38000" />
+      <workItem from="1677573699670" duration="14703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/github_process$replace_in_files.coverage" NAME="replace_in_files Coverage Results" MODIFIED="1677251383202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_process$colab_share.coverage" NAME="colab_share Coverage Results" MODIFIED="1677584789288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/github_process$local_colab_share.coverage" NAME="local_colab_share Coverage Results" MODIFIED="1677586061174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
